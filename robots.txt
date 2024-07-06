@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wadacepi.github.io/sitemap
+Sitemap: https://wadacepi.github.io/app/sitemap
+Sitemap: https://wadacepi.github.io/assets/sitemap
+Sitemap: https://wadacepi.github.io/css/sitemap
+Sitemap: https://wadacepi.github.io/includes/sitemap
+Sitemap: https://wadacepi.github.io/item/sitemap
+Sitemap: https://wadacepi.github.io/src/sitemap
